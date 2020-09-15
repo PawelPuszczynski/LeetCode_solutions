@@ -119,7 +119,8 @@ div.WordSection1
   border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:28.35pt'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-US style='font-size:14.0pt;font-family:
-  "Segoe UI",sans-serif;color:#24292E'>Solution</span></p>
+  "Segoe UI",sans-serif;color:#24292E'><a
+  href="https://github.com/PawelPuszczynski/LeetCode_solutions/blob/master/Top_Interview_Questions/RemoveDuplicatesFromSortedArray.java">Solution</a></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -141,7 +142,8 @@ div.WordSection1
   border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:28.35pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-US style='font-size:14.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E'>Solution</span></p>
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://github.com/PawelPuszczynski/LeetCode_solutions/blob/master/Top_Interview_Questions/BestTimeToBuyAndSellStock2.java">Solution</a></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -163,7 +165,8 @@ div.WordSection1
   border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:28.35pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-US style='font-size:14.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E'>Solution</span></p>
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://github.com/PawelPuszczynski/LeetCode_solutions/blob/master/Top_Interview_Questions/RotateArray.java">Solution</a></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -185,7 +188,8 @@ div.WordSection1
   border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:28.35pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-US style='font-size:14.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E'>Solution</span></p>
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://github.com/PawelPuszczynski/LeetCode_solutions/blob/master/Top_Interview_Questions/ContainsDuplicate.java">Solution</a></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -207,7 +211,8 @@ div.WordSection1
   border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:28.35pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-US style='font-size:14.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E'>Solution</span></p>
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://github.com/PawelPuszczynski/LeetCode_solutions/blob/master/Top_Interview_Questions/SingleNumber.java">Solution</a></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -229,7 +234,8 @@ div.WordSection1
   border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:28.35pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-US style='font-size:14.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E'>Solution</span></p>
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://github.com/PawelPuszczynski/LeetCode_solutions/blob/master/Top_Interview_Questions/IntersectionOfTwoArrays2.java">Solution</a></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -251,7 +257,8 @@ div.WordSection1
   border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:28.35pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-US style='font-size:14.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E'>Solution</span></p>
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://github.com/PawelPuszczynski/LeetCode_solutions/blob/master/Top_Interview_Questions/PlusOne.java">Solution</a></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -273,7 +280,8 @@ div.WordSection1
   border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:28.35pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-US style='font-size:14.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E'>Solution</span></p>
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://github.com/PawelPuszczynski/LeetCode_solutions/blob/master/Top_Interview_Questions/MoveZeroes.java">Solution</a></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -295,7 +303,8 @@ div.WordSection1
   border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:28.35pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-US style='font-size:14.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E'>Solution</span></p>
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://github.com/PawelPuszczynski/LeetCode_solutions/blob/master/Top_Interview_Questions/TwoSum.java">Solution</a></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -317,7 +326,8 @@ div.WordSection1
   border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:28.35pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-US style='font-size:14.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E'>Solution</span></p>
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://github.com/PawelPuszczynski/LeetCode_solutions/blob/master/Top_Interview_Questions/ValidSudoku.java">Solution</a></span></p>
   </td>
  </tr>
  <tr style='height:28.35pt'>
@@ -339,7 +349,8 @@ div.WordSection1
   border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:28.35pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-US style='font-size:14.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E'>Solution</span></p>
+  font-family:"Segoe UI",sans-serif;color:#24292E'><a
+  href="https://github.com/PawelPuszczynski/LeetCode_solutions/blob/master/Top_Interview_Questions/RotateImage.java">Solution</a></span></p>
   </td>
  </tr>
 </table>
