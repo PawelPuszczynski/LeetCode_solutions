@@ -1198,3 +1198,10 @@ mso-ansi-language:EN-GB'>&nbsp;</span></p>
 </body>
 
 </html>
+
+Weekly Challenges
+
+Subject | Challenge | My solution
+--- | --- | ---
+_Array_ | [1929. Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array/) | [Solution](https://github.com/PawelPuszczynski/LeetCode_solutions/blob/master/Weekly_Challenges/ConcatenationOfArray.java)
+_Array_ | [1403. Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [Solution](https://github.com/PawelPuszczynski/LeetCode_solutions/blob/master/Weekly_Challenges/MinSubseqInNonIncrOrder.java)
