@@ -1205,3 +1205,5 @@ Subject | Challenge | My solution
 --- | --- | ---
 _Array_ | [1929. Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array/) | [Solution](https://github.com/PawelPuszczynski/LeetCode_solutions/blob/master/Weekly_Challenges/ConcatenationOfArray.java)
 _Array_ | [1403. Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [Solution](https://github.com/PawelPuszczynski/LeetCode_solutions/blob/master/Weekly_Challenges/MinSubseqInNonIncrOrder.java)
+_Array_ | [1979. Find Greatest Common Divisor of Array](https://leetcode.com/contest/weekly-contest-255/problems/find-greatest-common-divisor-of-array/) | [Solution](https://github.com/PawelPuszczynski/LeetCode_solutions/blob/master/Weekly_Challenges/1979FindGreatestCommonDivisor.java)
+_Array_ | [1980. Find Unique Binary String](https://leetcode.com/contest/weekly-contest-255/problems/find-unique-binary-string/) | [Solution](https://github.com/PawelPuszczynski/LeetCode_solutions/blob/master/Weekly_Challenges/1980FindUniqueBinaryString.java)
